@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaveExitText</string>
+    <string name="hint_text">您输入的内容将长期保存</string>
+</resources>
